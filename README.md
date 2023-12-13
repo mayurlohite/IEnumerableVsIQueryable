@@ -1,6 +1,6 @@
 # Differences between IEnumerable and IQueryable in C\#
 
-### This demo is built on, You can use any .NET core version from 3.1:
+### This demo is built on below requirements but you can use any .NET core version starting from from 3.1:
 
 * Visual Studio 2022
 * .NET Core 7
